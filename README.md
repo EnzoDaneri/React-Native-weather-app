@@ -1,17 +1,19 @@
 Fuente:
 https://www.youtube.com/watch?v=NgDaPmxewcg&t=3438s
 
-# expo init nameProject
+`expo init nameProject`
+``
+`npm start `
 
-# npm start
+`expo install expo-location`
 
-# expo install expo-location
+import \* as Location from 'expo-location';
 
-# import \* as Location from 'expo-location';
 
-# expo install @react-native-community/picker
+`expo install @react-native-community/picker`
 
-# npm install --save-dev react-native-dotenv@0.2.0
+` npm install --save-dev react-native-dotenv@0.2.0`
+
 
 1:58:00
 (para crear archivo .env y guardar variable de entorno para API_KEY. Luego incluir ese archivo en el .gitIgnore)
